@@ -4,7 +4,7 @@
 # vite基本配置【vue3+ts+vite】
 
  pnpm install（安装依赖）
- 
+
  pnpm dev （运行）
 
  pnpm build (打包)
