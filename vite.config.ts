@@ -12,6 +12,8 @@ import viteImagemin from 'vite-plugin-imagemin'
 export default defineConfig({
   // 配置基础路径
   base: './',
+  // 设置缓存文件路径
+  cacheDir: './.cache',
   plugins: [
     vue(),
     // gzip压缩

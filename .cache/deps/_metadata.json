@@ -1,0 +1,32 @@
+{
+  "hash": "21c00e7f",
+  "browserHash": "46b0d5b8",
+  "optimized": {
+    "axios": {
+      "src": "../../node_modules/.pnpm/axios@0.27.2/node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "5d73b8d9",
+      "needsInterop": true
+    },
+    "element-plus": {
+      "src": "../../node_modules/.pnpm/element-plus@2.2.11_vue@3.2.37/node_modules/element-plus/es/index.mjs",
+      "file": "element-plus.js",
+      "fileHash": "80810bfc",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../node_modules/.pnpm/vue@3.2.37/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "f0d72ff7",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-O734BQ2Q": {
+      "file": "chunk-O734BQ2Q.js"
+    },
+    "chunk-TWLJ45QX": {
+      "file": "chunk-TWLJ45QX.js"
+    }
+  }
+}
