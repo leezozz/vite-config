@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite --open --fource",
+    "dev": "vite --open --force",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview  --open",
     "lint": "eslint ./src --ext .js,.ts,.jsx,.tsx,.vue"

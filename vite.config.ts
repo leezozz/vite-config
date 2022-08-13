@@ -64,6 +64,8 @@ export default defineConfig({
     ],
   },
   build: {
+    // 设置浏览器import语法支持的版本
+    target: 'es2021',
     minify: 'terser',
     terserOptions: {
       compress: {
